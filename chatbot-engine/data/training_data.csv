@@ -1,0 +1,56 @@
+text,intent
+hello,GREETING
+hi,GREETING
+namaste,GREETING
+good morning,GREETING
+how are you,GREETING
+what is your name,GREETING
+thanks,GREETING
+thank you,GREETING
+bye,GREETING
+goodbye,GREETING
+what is the price,PRICE
+how much does it cost,PRICE
+cost of rice,PRICE
+price of wheat,PRICE
+how much,PRICE
+what is price,PRICE
+expensive,PRICE
+cost,PRICE
+rupees,PRICE
+I want to order,ORDER
+I want to buy,ORDER
+I need 2 kg rice,ORDER
+I need 5 units,ORDER
+place order,ORDER
+I want to purchase,ORDER
+order rice,ORDER
+buy wheat,ORDER
+quantity,ORDER
+kg,ORDER
+units,ORDER
+when will delivery happen,DELIVERY
+delivery date,DELIVERY
+how long,DELIVERY
+track order,DELIVERY
+when will it arrive,DELIVERY
+delivery time,DELIVERY
+shipping,DELIVERY
+dispatch,DELIVERY
+send payment,PAYMENT
+pay online,PAYMENT
+payment method,PAYMENT
+credit card,PAYMENT
+upi,PAYMENT
+bank transfer,PAYMENT
+how to pay,PAYMENT
+payment,PAYMENT
+transaction,PAYMENT
+this is a scam,SCAM
+fraud,SCAM
+suspicious,SCAM
+not real,SCAM
+spam,SCAM
+fake,SCAM
+malicious,SCAM
+dangerous,SCAM
